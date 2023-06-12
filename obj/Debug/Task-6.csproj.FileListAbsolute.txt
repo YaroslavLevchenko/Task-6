@@ -1,0 +1,8 @@
+C:\Users\olena\OneDrive\Рабочий стол\Task-6\Task-6\bin\Debug\Task-6.exe.config
+C:\Users\olena\OneDrive\Рабочий стол\Task-6\Task-6\bin\Debug\Task-6.exe
+C:\Users\olena\OneDrive\Рабочий стол\Task-6\Task-6\bin\Debug\Task-6.pdb
+C:\Users\olena\OneDrive\Рабочий стол\Task-6\Task-6\obj\Debug\Task-6.csproj.AssemblyReference.cache
+C:\Users\olena\OneDrive\Рабочий стол\Task-6\Task-6\obj\Debug\Task-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\olena\OneDrive\Рабочий стол\Task-6\Task-6\obj\Debug\Task-6.csproj.CoreCompileInputs.cache
+C:\Users\olena\OneDrive\Рабочий стол\Task-6\Task-6\obj\Debug\Task-6.exe
+C:\Users\olena\OneDrive\Рабочий стол\Task-6\Task-6\obj\Debug\Task-6.pdb
