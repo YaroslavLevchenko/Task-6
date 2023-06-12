@@ -29,8 +29,8 @@ namespace Task_6
                 A = double.Parse(Console.ReadLine());
                 Console.WriteLine("Type b: ");
                 B = double.Parse(Console.ReadLine());
-                if (B == 0) { throw new DivideByZeroException(); }
-                if(A < B) { throw new ApplicationException("a should be > b"); }
+                if (b == 0) { throw new DivideByZeroException(); }
+                if(a < b) { throw new ApplicationException("a should be > b"); }
             }
             catch(DivideByZeroException ex)
             {
